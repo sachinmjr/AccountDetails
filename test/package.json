@@ -1,0 +1,14 @@
+{
+  "name": "acountdetailstest",
+  "version": "1.0.0",
+  "description": "Account Details test cases",
+  "dependencies": {
+  },
+   "devDependencies": {
+  },
+  "keywords": [
+    "ac"
+  ],
+  "author": "sachin",
+  "license": "ISC"
+}

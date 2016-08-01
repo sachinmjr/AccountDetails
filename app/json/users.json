@@ -1,0 +1,9 @@
+[{ "accountNo":"1234567890", "firstName": "John",  "lastName": "smith", "age":"23", "gender" : "Male", "bal": "$4561384", "loanAmt": "$2475987"},
+	{ "accountNo":"823456789", "firstName": "Samuels","lastName": "Mark", "age":"32", "gender" : "Male", "bal": "$4561384", "loanAmt": "$2475987" },
+    { "accountNo":"9845567890", "firstName": "Greg",  "lastName": "Chappell", "age":"35", "gender" : "Male", "bal": "$4561384", "loanAmt": "$2475987" },
+    { "accountNo":"0923456789", "firstName": "Alan","lastName": "Thomson", "age":"26", "gender" : "Male", "bal": "$4561384", "loanAmt": "$2475987" },
+    { "accountNo":"5824567890", "firstName": "Paul",  "lastName": "Sheahan", "age":"39", "gender" : "Male", "bal": "$4561384", "loanAmt": "$2475987" },
+    { "accountNo":"5723456789", "firstName": "Ashley","lastName": "Woodcock", "age":"27", "gender" : "Male", "bal": "$4561384", "loanAmt": "$2475987" },
+    { "accountNo":"7824567890", "firstName": "Rick",  "lastName": "McCosker", "age":"41","gender" : "Male",  "bal": "$4561384", "loanAmt": "$2475987" },
+    { "accountNo":"6723456789", "firstName": "David","lastName": "Hookes", "age":"56", "gender" : "Male", "bal": "$4561384", "loanAmt": "$2475987" }
+]
