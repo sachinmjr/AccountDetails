@@ -24,12 +24,46 @@ accountApp.controller('searchCtrl', function ($scope, $http, $rootScope)
             }
             else
             {
-                alert('User detail not found');
+                swal(
+                {
+                    'title':"",
+                    'text':"User detail not found",
+                    'type': null,
+                    "html":true,
+                    'allowOutsideClick':true,
+                    'allowEscapeKey':true,
+                    'confirmButtonColor': "#DD6B55",
+                    'closeOnConfirm': true
+                },
+                function(confirmation)
+                {
+                    if(confirmation)
+                    {
+                        // nothing
+                    }
+                });
             }
         }
         else
         {
-            alert('Invalid text');
+            swal(
+                {
+                    'title':"",
+                    'text':"Invalid text",
+                    'type': null,
+                    "html":true,
+                    'allowOutsideClick':true,
+                    'allowEscapeKey':true,
+                    'confirmButtonColor': "#DD6B55",
+                    'closeOnConfirm': true
+                },
+                function(confirmation)
+                {
+                    if(confirmation)
+                    {
+                        // nothing
+                    }
+                });
         }
     }
 });

@@ -16,6 +16,7 @@ module.exports = function(config) {
       '../app/lib/angular-animate.js',
       '../app/lib/angular-route.js',
       '../app/lib/angular-resource.js',
+      '../app/lib/sweetalert.min.js',
       '../app/lib/angular-mocks.js',
       '../app/app.js',
       '../app/js/**/*.js',

@@ -79,7 +79,7 @@ module.exports = function(grunt) {
           banner: "/*Copyrights (c) 2016 test by sachin */"
         },
         files: {
-          'client/styles/lcss/main.css': [appbaseURL+'/styles/lcss/bootstrap.css', appbaseURL+'/styles/lcss/style.css']
+          'client/styles/lcss/main.css': [appbaseURL+'/styles/lcss/bootstrap.css', appbaseURL+'/styles/lcss/style.css', appbaseURL+'/styles/lcss/sweetalert.css']
         }
       }
   },
